@@ -33,8 +33,8 @@
         "grunt-simple-mocha": "^0.4.1",
         "is-url": "^1.2.4",
         "istanbul": "^1.1.0-alpha.1",
-        "mocha": "^8.0.1",
-        "node-red": "^1.1.2",
+        "mocha": "^8.1.1",
+        "node-red": "^1.1.3",
         "node-red-node-test-helper": "^0.2.5",
         "should": "^13.2.3"
     }
