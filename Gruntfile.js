@@ -24,7 +24,7 @@ module.exports = function(grunt){
             }
         },
         inlinelint: {
-            html: ['*/*.html'],
+            html: ['*.html'],
             options: {
                 jshintrc: ".jshintrc"
             }
